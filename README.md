@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Dule</h1>
-<h3 align="center">I'm a Cloud Engineer and Infrastructure Automation Engineer with a strong background as a Software Developer.</h3>
+<h3 align="center">I'm a Cloud Engineer and Automation Engineer with a strong background as a Software Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevindcoder" alt="kevindcoder" /></a> </p>
 
